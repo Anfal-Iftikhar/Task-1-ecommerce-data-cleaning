@@ -1,0 +1,21 @@
+
+DATA ANALYTICS PROJECT 1 REPORT
+
+Objective:
+Clean and prepare raw dataset.
+
+Tasks Performed:
+1. Handled missing values
+2. Checked duplicate rows
+3. Verified duplicate OrderIDs
+4. Corrected date formatting
+5. Standardized text formatting
+6. Validated TotalPrice calculations
+
+Final Results:
+- Missing values handled
+- Duplicate rows: 0
+- Duplicate OrderIDs: 0
+- Invalid dates: 0
+
+Project completed successfully.
